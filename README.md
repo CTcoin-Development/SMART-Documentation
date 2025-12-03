@@ -6,4 +6,4 @@ Software related to the usage of CTcoin SMART units, as well as library packages
 
 Take a look at the [wiki](https://github.com/CTcoin-Development/SMART-Documentation/wiki) for general information about the units and information on how to integrate our units into your applications.
 
-Software releases can be found [here](https://github.com/CTcoin-Development/SMART-Documentation/releases).
+Information about driver and software setup, including CTcoin SmartSuite can be found [here]([https://github.com/CTcoin-Development/SMART-Documentation/releases](https://github.com/CTcoin-Development/SMART-Documentation/wiki/Software)).
